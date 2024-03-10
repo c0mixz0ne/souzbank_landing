@@ -1,0 +1,64 @@
+body{
+	background-color: #ebedec;
+	font-family: 'PT Sans Caption', sans-serif;
+}
+th{
+font-weight: 200 !important;
+
+}
+input{
+	border: none !important;
+}
+.bluetext{
+	color: #003a76;
+	font-weight: 450;
+}
+.backgroundballs{
+	background: url(../img/Фонн.jpg)center center no-repeat ;
+	background-size: cover;
+	height: 26em;
+}
+.whitetext{
+	color: white;
+}
+.redbutton{
+	background: red;
+	color: white;
+	margin-left: -.7em;
+	height: 3em;
+	width: 13em;
+}
+.redbutton:hover{
+	background: none;
+	color: red;
+	border: 1px solid red;
+}
+.darggreybcg{
+	background: #424242;
+}
+.table th {
+border-top: none !important;
+}
+.table td {
+border-top: none !important;
+}
+.table thead th{
+	border-bottom: none;
+}
+
+.tabledark{
+	background: #727270;
+}
+.tablelight{
+	background: #9d9f9e;
+}
+.tablered{
+	background: #e8575c;
+}
+.tablegreen{
+	background: #53a34e;
+}
+
+.smalltext{
+	font-size: 0.6em;
+}
